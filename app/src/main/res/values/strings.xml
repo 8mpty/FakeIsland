@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FakeIsland</string>
+    <string name="service_label">Fake Island overlay</string>
+    <string name="service_description">Draws a black pill-shaped island at the top of the screen. It does not read your screen, collect data, or show notifications.</string>
+    <string name="enable_service">Enable in Accessibility settings</string>
+    <string name="status_on">Service is running ✔</string>
+    <string name="status_off">Service is not enabled yet. Tap the button below, then turn on “Fake Island overlay”.</string>
+    <string name="restricted_hint">Android 13+ sideloaded apps: if the toggle is greyed out, open App info → ⋮ menu → “Allow restricted settings”, then try again.</string>
+    <string name="show_island">Show island</string>
+    <string name="hide_landscape">Hide in landscape</string>
+    <string name="label_width">Width</string>
+    <string name="label_height">Height</string>
+    <string name="label_x">Horizontal offset</string>
+    <string name="label_y">Distance from top</string>
+    <string name="reset">Reset to defaults</string>
+    <string name="dp_label">dp</string>
+    <string name="empty_text" />
+</resources>
